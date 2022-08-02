@@ -1,0 +1,14 @@
+.denis-novik__leng-title{
+  transform: rotate(-90deg);
+  font-size: 16px;
+  line-height: 20px;
+  width: 80px;
+  height: 20px;
+  margin: 0;
+  opacity: .5;
+}
+
+.denis-novik__leng-title:hover{
+  opacity:1;
+  cursor: pointer;
+}

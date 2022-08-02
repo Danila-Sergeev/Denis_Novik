@@ -1,0 +1,12 @@
+
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../../Denis_Novik/fonts/gilroy-bold.woff2') format('woff2');
+  font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../../Denis_Novik/fonts/gilroy-medium.woff2') format('woff2');
+  font-weight: normal;
+}

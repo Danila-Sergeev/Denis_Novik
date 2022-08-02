@@ -1,0 +1,10 @@
+.about__subtitle{
+  width: 485px;
+  min-height: 218px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 100px;
+  text-align: center;
+}

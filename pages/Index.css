@@ -1,0 +1,20 @@
+@import url(../pages/fonts.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__about/page__about.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__denis-novik/page__denis-novik.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/border/border.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/denis-novik/denis-novik.css);
+@import url(../blocks/denis-novik/__img/denis-novik__img.css);
+@import url(../blocks/denis-novik/__subtitle/denis-novik__subtitle.css);
+@import url(../blocks/denis-novik/__title/denis-novik__title.css);
+@import url(../blocks/denis-novik/__header/denis-novik__header.css);
+@import url(../blocks/denis-novik/__leng-title/denis-novik__leng-title.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+

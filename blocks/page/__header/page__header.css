@@ -1,0 +1,6 @@
+.page__header{
+  max-width: 940px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}

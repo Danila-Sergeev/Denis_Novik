@@ -1,0 +1,11 @@
+.header__title{
+  size: 18px;
+  line-height: 28px;
+  color:#070707;
+  opacity: .5;
+}
+
+.header__title:hover{
+  opacity:1;
+  cursor: pointer;
+}
