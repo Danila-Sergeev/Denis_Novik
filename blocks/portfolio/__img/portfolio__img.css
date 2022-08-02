@@ -1,0 +1,8 @@
+.portfolio__img{
+  margin-top: 100px;
+  width: 936px;
+  height: 510px;
+}
+.portfolio__img:first-of-type{
+  margin-top: 60px;
+}

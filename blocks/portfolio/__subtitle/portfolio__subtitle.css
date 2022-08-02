@@ -1,0 +1,8 @@
+.porfolio__subtitle{
+  text-decoration: underline;
+  padding-top: 30px;
+}
+
+.porfolio__subtitle:last-of-type{
+  padding-bottom: 100px;
+}

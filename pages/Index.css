@@ -1,8 +1,10 @@
 @import url(../pages/fonts.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__skills/page__skills.css);
 @import url(../blocks/page/__about/page__about.css);
 @import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__portfolio/page__portfolio.css);
 @import url(../blocks/page/__denis-novik/page__denis-novik.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -17,4 +19,12 @@
 @import url(../blocks/denis-novik/__leng-title/denis-novik__leng-title.css);
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/skills/skills.css);
+@import url(../blocks/skills/__img/skills__img.css);
+@import url(../blocks/box/box.css);
+@import url(../blocks/skills/__subtitle/skills__subtitle.css);
+@import url(../blocks/portfolio/portfolio.css);
+@import url(../blocks/portfolio/__subtitle/portfolio__subtitle.css);
+@import url(../blocks/portfolio/__img/portfolio__img.css);
+
 
