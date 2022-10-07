@@ -3,6 +3,7 @@
   line-height: 28px;
   color:#070707;
   opacity: .5;
+  text-decoration: none;
 }
 
 .header__title:hover{

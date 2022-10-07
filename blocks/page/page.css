@@ -6,3 +6,6 @@
   font-family: 'Gilroy-Bold', 'Arial', sans-serif;
   z-index: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
